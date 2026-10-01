@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Saif Eddine Ayari
 
-<!--
-**saifayari/saifayari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Science Engineer | MCS in Data Science | AI Problem Solver**
 
-Here are some ideas to get you started:
+I build data-driven solutions to real-world problems using Python and SQL. I'm especially interested in finding practical problems and testing whether AI can solve them, from data pipelines to machine learning models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus Areas
+
+- Machine Learning and Deep Learning
+- Data Engineering and Databases
+- Data Analysis and Modeling
+- Building practical, end-to-end AI projects
+
+## Tech Stack
+
+`Python` · `SQL` · `Pandas` · `NumPy` · `Scikit-learn` · `PyTorch` · `Git`
+
+## Currently
+
+- Developing AI projects that address everyday, real-world problems
+- Deepening my skills in machine learning and data engineering
+
+## Let's Connect
+
+Open to discussing data, AI, and project ideas.
+
+📧 saif.ayari.1717@gmail.com
+
+*Feel free to explore my repositories to see what I'm working on.*
